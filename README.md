@@ -1,13 +1,8 @@
 # Port-scanner
 ## To use this Port Scanner
 
-Linux:
 ```bash
 sudo git clone https://github.com/aflahsidhique/Port-scanner.git
-```
-Windows:
-```bash
-git clone https://github.com/aflahsidhique/Port-scanner.git
 ```
 ```
 cd repo
